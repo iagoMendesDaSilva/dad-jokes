@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/iago/Documents/pokewatch/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml",
+            "outputFile": "/home/iago/Documents/jokesWatch/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml",
             "map": [
                 {
                     "source": "/home/iago/.gradle/caches/transforms-3/a26c6265feaf0ac9f43d457bf803af06/transformed/jetified-play-services-base-17.5.0/res/values-zh-rCN/values.xml",

@@ -24,16 +24,17 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.iago.pokewatch"
+        applicationId "com.iago.jokeswatch"
         minSdk 26
-        targetSdk 30
+        targetSdk 31
         versionCode 2
         versionName "1.0.0.1"
 
         Properties properties = new Properties()
         properties.load(project.rootProject.file("local.properties").newDataInputStream())
 
-        buildConfigField "String", "API_BASE_URL", "\"https://gist.githubusercontent.com/mrcsxsiq/b94dbe9ab67147b642baa9109ce16e44/raw/97811a5df2df7304b5bc4fbb9ee018a0339b8a38/\""
+        buildConfigField "String", "API_BASE_URL", "\"${properties.getProperty("API_BASE_URL")}\""
+        buildConfigField "String", "API_KEY", "\"${properties.getProperty("API_KEY")}\""
     }
 
     buildTypes {

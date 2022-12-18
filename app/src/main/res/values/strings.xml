@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">PokeWatch</string>
+    <string name="app_name">Dad Jokes</string>
     <string name="error_default">Something went wrong</string>
     <string name="icon_reload">Refresh icon</string>
 

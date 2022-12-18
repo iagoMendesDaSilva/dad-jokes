@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/iago/Documents/pokewatch/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es/values-es.xml",
+            "outputFile": "/home/iago/Documents/jokesWatch/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es/values-es.xml",
             "map": [
                 {
                     "source": "/home/iago/.gradle/caches/transforms-3/c9eb8d783f941a9f1b5d1df44cc73fdc/transformed/jetified-play-services-basement-17.5.0/res/values-es/values.xml",

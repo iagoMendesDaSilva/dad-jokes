@@ -12,79 +12,79 @@
 12     limitations under the License.
 13-->
 14<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-15    package="com.iago.pokewatch"
+15    package="com.iago.jokeswatch"
 16    android:versionCode="2"
 17    android:versionName="1.0.0.1" >
 18
 19    <uses-sdk
 20        android:minSdkVersion="26"
-20-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
-21        android:targetSdkVersion="30" />
-21-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
+20-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml
+21        android:targetSdkVersion="31" />
+21-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml
 22
 23    <uses-permission android:name="android.permission.WAKE_LOCK" />
-23-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:18:5-68
-23-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:18:22-65
+23-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:18:5-68
+23-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:18:22-65
 24    <uses-permission android:name="android.permission.INTERNET" />
-24-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:19:5-66
-24-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:19:22-64
+24-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:19:5-66
+24-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:19:22-64
 25
 26    <uses-feature android:name="android.hardware.type.watch" />
-26-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:21:5-64
-26-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:21:19-61
+26-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:21:5-64
+26-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:21:19-61
 27
 28    <application
-28-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:23:5-52:19
-29        android:name="com.iago.pokewatch.ReminderApplication"
-29-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:24:9-62
+28-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:23:5-52:19
+29        android:name="com.iago.jokesWatch.JokeWatchApplication"
+29-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:24:9-64
 30        android:allowBackup="true"
-30-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:25:9-35
+30-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:25:9-35
 31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 31-->[androidx.core:core:1.7.0] /home/iago/.gradle/caches/transforms-3/84362be3eca50f087fef24640f5e62a0/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
 32        android:extractNativeLibs="false"
 33        android:icon="@mipmap/ic_launcher"
-33-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:26:9-43
+33-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:26:9-43
 34        android:label="@string/app_name"
-34-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:27:9-41
+34-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:27:9-41
 35        android:supportsRtl="true"
-35-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:28:9-35
+35-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:28:9-35
 36        android:theme="@android:style/Theme.DeviceDefault" >
-36-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:29:9-59
+36-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:29:9-59
 37        <uses-library
-37-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:30:9-32:39
+37-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:30:9-32:39
 38            android:name="com.google.android.wearable"
-38-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:31:13-55
+38-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:31:13-55
 39            android:required="true" />
-39-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:32:13-36
+39-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:32:13-36
 40
 41        <!--
 42               Set to true if your app is Standalone, that is, it does not require the handheld
 43               app to run.
 44        -->
 45        <meta-data
-45-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:38:9-40:36
+45-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:38:9-40:36
 46            android:name="com.google.android.wearable.standalone"
-46-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:39:13-66
+46-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:39:13-66
 47            android:value="true" />
-47-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:40:13-33
+47-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:40:13-33
 48
 49        <activity
-49-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:42:9-51:20
-50            android:name="com.iago.pokewatch.MainActivity"
-50-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:43:13-59
+49-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:42:9-51:20
+50            android:name="com.iago.jokesWatch.MainActivity"
+50-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:43:13-60
 51            android:exported="true"
-51-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:44:13-36
+51-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:44:13-36
 52            android:label="@string/app_name" >
-52-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:45:13-45
+52-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:45:13-45
 53            <intent-filter>
-53-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:46:13-50:29
+53-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:46:13-50:29
 54                <action android:name="android.intent.action.MAIN" />
-54-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:47:17-69
-54-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:47:25-66
+54-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:47:17-69
+54-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:47:25-66
 55
 56                <category android:name="android.intent.category.LAUNCHER" />
-56-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:49:17-77
-56-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:49:27-74
+56-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:49:17-77
+56-->/home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:49:27-74
 57            </intent-filter>
 58        </activity>
 59        <activity
@@ -107,7 +107,7 @@
 68-->[androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:26:9-34:20
 69            android:name="androidx.startup.InitializationProvider"
 69-->[androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:27:13-67
-70            android:authorities="com.iago.pokewatch.androidx-startup"
+70            android:authorities="com.iago.jokeswatch.androidx-startup"
 70-->[androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:28:13-68
 71            android:exported="false" >
 71-->[androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:29:13-37

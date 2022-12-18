@@ -1,4 +1,4 @@
-# The proguard configuration file for the following section is /home/iago/Documents/pokewatch/app/build/intermediates/default_proguard_files/global/proguard-android-optimize.txt-7.1.3
+# The proguard configuration file for the following section is /home/iago/Documents/jokesWatch/app/build/intermediates/default_proguard_files/global/proguard-android-optimize.txt-7.1.3
 # This is a configuration file for ProGuard.
 # http://proguard.sourceforge.net/index.html#manual/usage.html
 #
@@ -117,8 +117,8 @@
 # These classes are duplicated between android.jar and core-lambda-stubs.jar.
 -dontnote java.lang.invoke.**
 
-# End of content from /home/iago/Documents/pokewatch/app/build/intermediates/default_proguard_files/global/proguard-android-optimize.txt-7.1.3
-# The proguard configuration file for the following section is /home/iago/Documents/pokewatch/app/proguard-rules.pro
+# End of content from /home/iago/Documents/jokesWatch/app/build/intermediates/default_proguard_files/global/proguard-android-optimize.txt-7.1.3
+# The proguard configuration file for the following section is /home/iago/Documents/jokesWatch/app/proguard-rules.pro
 # Copyright (C) 2021 The Android Open Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -155,16 +155,16 @@
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
 
-# End of content from /home/iago/Documents/pokewatch/app/proguard-rules.pro
-# The proguard configuration file for the following section is /home/iago/Documents/pokewatch/app/build/intermediates/aapt_proguard_file/release/aapt_rules.txt
+# End of content from /home/iago/Documents/jokesWatch/app/proguard-rules.pro
+# The proguard configuration file for the following section is /home/iago/Documents/jokesWatch/app/build/intermediates/aapt_proguard_file/release/aapt_rules.txt
 -keep class androidx.core.app.CoreComponentFactory { <init>(); }
 -keep class androidx.profileinstaller.ProfileInstallReceiver { <init>(); }
 -keep class androidx.startup.InitializationProvider { <init>(); }
 -keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
--keep class com.iago.pokewatch.MainActivity { <init>(); }
--keep class com.iago.pokewatch.ReminderApplication { <init>(); }
+-keep class com.iago.jokesWatch.JokeWatchApplication { <init>(); }
+-keep class com.iago.jokesWatch.MainActivity { <init>(); }
 
-# End of content from /home/iago/Documents/pokewatch/app/build/intermediates/aapt_proguard_file/release/aapt_rules.txt
+# End of content from /home/iago/Documents/jokesWatch/app/build/intermediates/aapt_proguard_file/release/aapt_rules.txt
 # The proguard configuration file for the following section is /home/iago/.gradle/caches/transforms-3/2de30672399fc3e23c2be4511938bd64/transformed/navigation-common-2.4.0/proguard.txt
 # Copyright (C) 2019 The Android Open Source Project
 #

@@ -1,4 +1,4 @@
-com.iago.pokewatch
+com.iago.jokesWatch
 anim fragment_fast_out_extra_slow_in
 animator fragment_close_enter
 animator fragment_close_exit
@@ -91,7 +91,6 @@ dimen notification_subtext_size
 dimen notification_top_pad
 dimen notification_top_pad_large_text
 drawable abc_vector_test
-drawable bug
 drawable circular_vignette_bottom
 drawable circular_vignette_top
 drawable common_full_open_on_phone
@@ -113,21 +112,9 @@ drawable common_google_signin_btn_text_light
 drawable common_google_signin_btn_text_light_focused
 drawable common_google_signin_btn_text_light_normal
 drawable common_google_signin_btn_text_light_normal_background
-drawable dark
-drawable dragon
-drawable eletric
-drawable fairy
-drawable fighting
-drawable fire
-drawable flying
-drawable ghost
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
-drawable grass
-drawable ground
 drawable ic_100tb
-drawable ice
-drawable normal
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -140,13 +127,8 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
-drawable poison
-drawable psychic
 drawable rectangular_vignette_bottom
 drawable rectangular_vignette_top
-drawable rock
-drawable steel
-drawable water
 font nunito_black
 font nunito_blackitalic
 font nunito_bold

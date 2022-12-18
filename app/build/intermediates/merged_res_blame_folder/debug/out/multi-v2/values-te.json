@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/iago/Documents/pokewatch/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml",
+            "outputFile": "/home/iago/Documents/jokesWatch/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml",
             "map": [
                 {
                     "source": "/home/iago/.gradle/caches/transforms-3/84362be3eca50f087fef24640f5e62a0/transformed/core-1.7.0/res/values-te/values-te.xml",

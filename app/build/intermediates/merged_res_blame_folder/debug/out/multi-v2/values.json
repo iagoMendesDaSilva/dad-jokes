@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/iago/Documents/pokewatch/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/iago/Documents/jokesWatch/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/home/iago/Documents/pokewatch/app/src/main/res/values/strings.xml",
+                    "source": "/home/iago/Documents/jokesWatch/app/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",

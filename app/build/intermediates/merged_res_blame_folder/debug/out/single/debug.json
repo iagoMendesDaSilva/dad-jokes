@@ -1,178 +1,106 @@
 [
     {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/drawable_psychic.png.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/drawable/psychic.png"
+        "merged": "/home/iago/Documents/jokesWatch/app/build/intermediates/merged_res/debug/font_nunito_blackitalic.ttf.flat",
+        "source": "/home/iago/Documents/jokesWatch/app/src/main/res/font/nunito_blackitalic.ttf"
     },
     {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/drawable_water.png.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/drawable/water.png"
+        "merged": "/home/iago/Documents/jokesWatch/app/build/intermediates/merged_res/debug/font_nunito_extrabolditalic.ttf.flat",
+        "source": "/home/iago/Documents/jokesWatch/app/src/main/res/font/nunito_extrabolditalic.ttf"
     },
     {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/drawable_flying.png.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/drawable/flying.png"
+        "merged": "/home/iago/Documents/jokesWatch/app/build/intermediates/merged_res/debug/font_nunito_medium.ttf.flat",
+        "source": "/home/iago/Documents/jokesWatch/app/src/main/res/font/nunito_medium.ttf"
     },
     {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/drawable_ice.png.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/drawable/ice.png"
+        "merged": "/home/iago/Documents/jokesWatch/app/build/intermediates/merged_res/debug/font_nunito_extrabold.ttf.flat",
+        "source": "/home/iago/Documents/jokesWatch/app/src/main/res/font/nunito_extrabold.ttf"
     },
     {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/font_nunito_regular.ttf.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/font/nunito_regular.ttf"
+        "merged": "/home/iago/Documents/jokesWatch/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/iago/Documents/jokesWatch/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/font_nunito_lightitalic.ttf.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/font/nunito_lightitalic.ttf"
+        "merged": "/home/iago/Documents/jokesWatch/app/build/intermediates/merged_res/debug/font_nunito_extralight.ttf.flat",
+        "source": "/home/iago/Documents/jokesWatch/app/src/main/res/font/nunito_extralight.ttf"
     },
     {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/drawable_poison.png.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/drawable/poison.png"
+        "merged": "/home/iago/Documents/jokesWatch/app/build/intermediates/merged_res/debug/font_nunito_bold.ttf.flat",
+        "source": "/home/iago/Documents/jokesWatch/app/src/main/res/font/nunito_bold.ttf"
     },
     {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/font_nunito_bold.ttf.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/font/nunito_bold.ttf"
+        "merged": "/home/iago/Documents/jokesWatch/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/iago/Documents/jokesWatch/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/font_nunito_extrabolditalic.ttf.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/font/nunito_extrabolditalic.ttf"
+        "merged": "/home/iago/Documents/jokesWatch/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/iago/Documents/jokesWatch/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/drawable_grass.png.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/drawable/grass.png"
+        "merged": "/home/iago/Documents/jokesWatch/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/iago/Documents/jokesWatch/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/font_nunito_semibolditalic.ttf.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/font/nunito_semibolditalic.ttf"
+        "merged": "/home/iago/Documents/jokesWatch/app/build/intermediates/merged_res/debug/font_nunito_mediumitalic.ttf.flat",
+        "source": "/home/iago/Documents/jokesWatch/app/src/main/res/font/nunito_mediumitalic.ttf"
     },
     {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/home/iago/Documents/jokesWatch/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/iago/Documents/jokesWatch/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/drawable_ground.png.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/drawable/ground.png"
+        "merged": "/home/iago/Documents/jokesWatch/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/iago/Documents/jokesWatch/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/drawable_bug.png.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/drawable/bug.png"
+        "merged": "/home/iago/Documents/jokesWatch/app/build/intermediates/merged_res/debug/font_nunito_black.ttf.flat",
+        "source": "/home/iago/Documents/jokesWatch/app/src/main/res/font/nunito_black.ttf"
     },
     {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/font_nunito_extralightitalic.ttf.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/font/nunito_extralightitalic.ttf"
+        "merged": "/home/iago/Documents/jokesWatch/app/build/intermediates/merged_res/debug/font_nunito_bolditalic.ttf.flat",
+        "source": "/home/iago/Documents/jokesWatch/app/src/main/res/font/nunito_bolditalic.ttf"
     },
     {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/home/iago/Documents/jokesWatch/app/build/intermediates/merged_res/debug/font_nunito_light.ttf.flat",
+        "source": "/home/iago/Documents/jokesWatch/app/src/main/res/font/nunito_light.ttf"
     },
     {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/drawable_eletric.png.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/drawable/eletric.png"
+        "merged": "/home/iago/Documents/jokesWatch/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/iago/Documents/jokesWatch/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/font_nunito_blackitalic.ttf.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/font/nunito_blackitalic.ttf"
+        "merged": "/home/iago/Documents/jokesWatch/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/iago/Documents/jokesWatch/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/drawable_fairy.png.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/drawable/fairy.png"
+        "merged": "/home/iago/Documents/jokesWatch/app/build/intermediates/merged_res/debug/font_nunito_semibold.ttf.flat",
+        "source": "/home/iago/Documents/jokesWatch/app/src/main/res/font/nunito_semibold.ttf"
     },
     {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/drawable_rock.png.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/drawable/rock.png"
+        "merged": "/home/iago/Documents/jokesWatch/app/build/intermediates/merged_res/debug/font_nunito_lightitalic.ttf.flat",
+        "source": "/home/iago/Documents/jokesWatch/app/src/main/res/font/nunito_lightitalic.ttf"
     },
     {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "/home/iago/Documents/jokesWatch/app/build/intermediates/merged_res/debug/font_nunito_italic.ttf.flat",
+        "source": "/home/iago/Documents/jokesWatch/app/src/main/res/font/nunito_italic.ttf"
     },
     {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/drawable_fighting.png.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/drawable/fighting.png"
+        "merged": "/home/iago/Documents/jokesWatch/app/build/intermediates/merged_res/debug/font_nunito_semibolditalic.ttf.flat",
+        "source": "/home/iago/Documents/jokesWatch/app/src/main/res/font/nunito_semibolditalic.ttf"
     },
     {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/home/iago/Documents/jokesWatch/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/iago/Documents/jokesWatch/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/drawable_dragon.png.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/drawable/dragon.png"
+        "merged": "/home/iago/Documents/jokesWatch/app/build/intermediates/merged_res/debug/font_nunito_regular.ttf.flat",
+        "source": "/home/iago/Documents/jokesWatch/app/src/main/res/font/nunito_regular.ttf"
     },
     {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/font_nunito_light.ttf.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/font/nunito_light.ttf"
+        "merged": "/home/iago/Documents/jokesWatch/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/iago/Documents/jokesWatch/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/font_nunito_bolditalic.ttf.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/font/nunito_bolditalic.ttf"
-    },
-    {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/drawable_fire.png.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/drawable/fire.png"
-    },
-    {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/font_nunito_italic.ttf.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/font/nunito_italic.ttf"
-    },
-    {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/drawable_ghost.png.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/drawable/ghost.png"
-    },
-    {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/font_nunito_mediumitalic.ttf.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/font/nunito_mediumitalic.ttf"
-    },
-    {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/drawable_dark.png.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/drawable/dark.png"
-    },
-    {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/font_nunito_medium.ttf.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/font/nunito_medium.ttf"
-    },
-    {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/font_nunito_black.ttf.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/font/nunito_black.ttf"
-    },
-    {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/font_nunito_semibold.ttf.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/font/nunito_semibold.ttf"
-    },
-    {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/font_nunito_extralight.ttf.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/font/nunito_extralight.ttf"
-    },
-    {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/font_nunito_extrabold.ttf.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/font/nunito_extrabold.ttf"
-    },
-    {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/drawable_normal.png.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/drawable/normal.png"
-    },
-    {
-        "merged": "/home/iago/Documents/pokewatch/app/build/intermediates/merged_res/debug/drawable_steel.png.flat",
-        "source": "/home/iago/Documents/pokewatch/app/src/main/res/drawable/steel.png"
+        "merged": "/home/iago/Documents/jokesWatch/app/build/intermediates/merged_res/debug/font_nunito_extralightitalic.ttf.flat",
+        "source": "/home/iago/Documents/jokesWatch/app/src/main/res/font/nunito_extralightitalic.ttf"
     }
 ]

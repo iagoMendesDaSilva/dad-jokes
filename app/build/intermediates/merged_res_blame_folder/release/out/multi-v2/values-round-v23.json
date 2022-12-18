@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/iago/Documents/pokewatch/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-round-v23/values-round-v23.xml",
+            "outputFile": "/home/iago/Documents/jokesWatch/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-round-v23/values-round-v23.xml",
             "map": [
                 {
-                    "source": "/home/iago/Documents/pokewatch/app/src/main/res/values-round/strings.xml",
+                    "source": "/home/iago/Documents/jokesWatch/app/src/main/res/values-round/strings.xml",
                     "from": {
                         "startLines": "14",
                         "startColumns": "4",

@@ -12,13 +12,13 @@
      limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.iago.pokewatch"
+    package="com.iago.jokeswatch"
     android:versionCode="2"
     android:versionName="1.0.0.1" >
 
     <uses-sdk
         android:minSdkVersion="26"
-        android:targetSdkVersion="30" />
+        android:targetSdkVersion="31" />
 
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -26,7 +26,7 @@
     <uses-feature android:name="android.hardware.type.watch" />
 
     <application
-        android:name="com.iago.pokewatch.ReminderApplication"
+        android:name="com.iago.jokesWatch.JokeWatchApplication"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:extractNativeLibs="false"
@@ -47,7 +47,7 @@
             android:value="true" />
 
         <activity
-            android:name="com.iago.pokewatch.MainActivity"
+            android:name="com.iago.jokesWatch.MainActivity"
             android:exported="true"
             android:label="@string/app_name" >
             <intent-filter>
@@ -67,7 +67,7 @@
 
         <provider
             android:name="androidx.startup.InitializationProvider"
-            android:authorities="com.iago.pokewatch.androidx-startup"
+            android:authorities="com.iago.jokeswatch.androidx-startup"
             android:exported="false" >
             <meta-data
                 android:name="androidx.profileinstaller.ProfileInstallerInitializer"

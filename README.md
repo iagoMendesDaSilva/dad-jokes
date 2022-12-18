@@ -1,8 +1,7 @@
-# PokeWatch
+# Dad Jokes
 
-PokeWatch is a pokedex application for wear os.
+Dad Jokes is an application for wear os to get a classic dad joke anytime, anywhere.
 
 <div>
-<img src="/demonstration/list.png" width="250"/>
-<img src="/demonstration/pokemon.png" width="250"/>
+<img src="/demonstration/demo.png" width="250"/>
 </div>

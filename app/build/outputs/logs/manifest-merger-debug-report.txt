@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:14:1-53:12
-INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:14:1-53:12
-INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:14:1-53:12
-INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:14:1-53:12
+ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:14:1-53:12
+INJECTED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:14:1-53:12
+INJECTED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:14:1-53:12
+INJECTED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:14:1-53:12
 MERGED from [androidx.compose.ui:ui-tooling:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/33862ed74ec9ffd2204ec538cd9221ec/transformed/jetified-ui-tooling-1.2.0-alpha08/AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0] /home/iago/.gradle/caches/transforms-3/bbd1bc6fee451ff8f8f3515a6487eae3/transformed/jetified-hilt-navigation-compose-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.wear.compose:compose-navigation:1.0.0-alpha21] /home/iago/.gradle/caches/transforms-3/5f9aff6baf1999a8948ccfa15f26dd9b/transformed/jetified-compose-navigation-1.0.0-alpha21/AndroidManifest.xml:17:1-24:12
@@ -77,37 +77,37 @@ MERGED from [androidx.exifinterface:exifinterface:1.3.3] /home/iago/.gradle/cach
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/iago/.gradle/caches/transforms-3/52e0baba967bc4203480a05a9c6cb58b/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.dagger:dagger-lint-aar:2.39] /home/iago/.gradle/caches/transforms-3/a27f9b3d2b98785d620be5160fe5f8f0/transformed/jetified-dagger-lint-aar-2.39/AndroidManifest.xml:16:1-19:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/iago/.gradle/caches/transforms-3/7911be1d525868eb08c11cb47d37f48b/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:14:1-53:12
-INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:14:1-53:12
-INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:14:1-53:12
+INJECTED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:14:1-53:12
+INJECTED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:14:1-53:12
+INJECTED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:14:1-53:12
 	package
-		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:16:5-33
-		INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
-		INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
+		ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:16:5-34
+		INJECTED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml
+		INJECTED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
-		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:14:1-53:12
-		INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
+		INJECTED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml
+		ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:14:1-53:12
+		INJECTED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
-		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:14:1-53:12
-		INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
+		INJECTED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml
+		ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:14:1-53:12
+		INJECTED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:15:5-63
+		ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:15:5-63
 uses-permission#android.permission.WAKE_LOCK
-ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:18:5-68
+ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:18:5-68
 	android:name
-		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:18:22-65
+		ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:18:22-65
 uses-permission#android.permission.INTERNET
-ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:19:5-66
+ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:19:5-66
 	android:name
-		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:19:22-64
+		ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:19:22-64
 uses-feature#android.hardware.type.watch
-ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:21:5-64
+ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:21:5-64
 	android:name
-		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:21:19-61
+		ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:21:19-61
 application
-ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:23:5-52:19
+ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:23:5-52:19
 MERGED from [androidx.compose.ui:ui-tooling:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/33862ed74ec9ffd2204ec538cd9221ec/transformed/jetified-ui-tooling-1.2.0-alpha08/AndroidManifest.xml:24:5-28:19
 MERGED from [androidx.compose.ui:ui-tooling:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/33862ed74ec9ffd2204ec538cd9221ec/transformed/jetified-ui-tooling-1.2.0-alpha08/AndroidManifest.xml:24:5-28:19
 MERGED from [com.google.android.gms:play-services-wearable:17.1.0] /home/iago/.gradle/caches/transforms-3/b4f5438b2024956a83b30774ecdfe889/transformed/jetified-play-services-wearable-17.1.0/AndroidManifest.xml:22:5-20
@@ -129,51 +129,51 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/iago/
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] /home/iago/.gradle/caches/transforms-3/84362be3eca50f087fef24640f5e62a0/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:28:9-35
+		ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:28:9-35
 	android:label
-		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:27:9-41
+		ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:27:9-41
 	android:icon
-		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:26:9-43
+		ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:26:9-43
 	android:allowBackup
-		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:25:9-35
+		ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:25:9-35
 	android:theme
-		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:29:9-59
+		ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:29:9-59
 	android:name
-		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:24:9-63
+		ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:24:9-64
 uses-library#com.google.android.wearable
-ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:30:9-32:39
+ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:30:9-32:39
 	android:required
-		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:32:13-36
+		ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:32:13-36
 	android:name
-		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:31:13-55
+		ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:31:13-55
 meta-data#com.google.android.wearable.standalone
-ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:38:9-40:36
+ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:38:9-40:36
 	android:value
-		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:40:13-33
+		ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:40:13-33
 	android:name
-		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:39:13-66
-activity#com.iago.pokewatch.MainActivity
-ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:42:9-51:20
+		ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:39:13-66
+activity#com.iago.jokesWatch.MainActivity
+ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:42:9-51:20
 	android:label
-		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:45:13-45
+		ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:45:13-45
 	android:exported
-		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:44:13-36
+		ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:44:13-36
 	android:name
-		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:43:13-59
+		ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:43:13-60
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:46:13-50:29
+ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:46:13-50:29
 action#android.intent.action.MAIN
-ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:47:17-69
+ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:47:17-69
 	android:name
-		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:47:25-66
+		ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:47:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:49:17-77
+ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:49:17-77
 	android:name
-		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:49:27-74
+		ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml:49:27-74
 uses-sdk
-INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
-INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
+INJECTED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml
+INJECTED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml
 MERGED from [androidx.compose.ui:ui-tooling:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/33862ed74ec9ffd2204ec538cd9221ec/transformed/jetified-ui-tooling-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.compose.ui:ui-tooling:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/33862ed74ec9ffd2204ec538cd9221ec/transformed/jetified-ui-tooling-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0] /home/iago/.gradle/caches/transforms-3/bbd1bc6fee451ff8f8f3515a6487eae3/transformed/jetified-hilt-navigation-compose-1.0.0/AndroidManifest.xml:20:5-22:41
@@ -320,16 +320,16 @@ MERGED from [com.google.dagger:dagger-lint-aar:2.39] /home/iago/.gradle/caches/t
 MERGED from [com.google.dagger:dagger-lint-aar:2.39] /home/iago/.gradle/caches/transforms-3/a27f9b3d2b98785d620be5160fe5f8f0/transformed/jetified-dagger-lint-aar-2.39/AndroidManifest.xml:18:3-42
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/iago/.gradle/caches/transforms-3/7911be1d525868eb08c11cb47d37f48b/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/iago/.gradle/caches/transforms-3/7911be1d525868eb08c11cb47d37f48b/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
-INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
+INJECTED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml
+INJECTED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
-		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
-		INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
+		INJECTED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml
+		ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml
+		INJECTED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
-		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
-		INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
+		INJECTED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml
+		ADDED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml
+		INJECTED from /home/iago/Documents/jokesWatch/app/src/main/AndroidManifest.xml
 activity#androidx.compose.ui.tooling.PreviewActivity
 ADDED from [androidx.compose.ui:ui-tooling:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/33862ed74ec9ffd2204ec538cd9221ec/transformed/jetified-ui-tooling-1.2.0-alpha08/AndroidManifest.xml:25:9-27:39
 	android:exported

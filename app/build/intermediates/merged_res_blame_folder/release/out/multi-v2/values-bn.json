@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/iago/Documents/pokewatch/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-bn/values-bn.xml",
+            "outputFile": "/home/iago/Documents/jokesWatch/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-bn/values-bn.xml",
             "map": [
                 {
                     "source": "/home/iago/.gradle/caches/transforms-3/84362be3eca50f087fef24640f5e62a0/transformed/core-1.7.0/res/values-bn/values-bn.xml",
