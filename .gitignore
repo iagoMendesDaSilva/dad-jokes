@@ -1,6 +1,8 @@
 *.iml
 *.jsk
 .gradle
+keystore.jks
+jokeswatch_keystore.jks
 /local.properties
 /.idea/caches
 /.idea/libraries
